@@ -1,0 +1,98 @@
+.header img {
+  background:  #D65C33;;
+
+}
+.header{
+	position: relative;
+
+}
+
+
+
+.header h1 {
+  position:relative;
+  left:950px;
+  top:-10px;
+  color: #D65C33; 
+  font-family: light 300 italic;
+
+
+}
+
+
+
+#image1{
+	opacity:.50;
+	filter:alpha(opacity=50);
+	position: relative;
+
+}
+
+.login{
+	border-style:solid;
+	border-width:1px;
+	border-color:grey;
+	height: 400px;
+	width: 400px;
+	padding: 30px;
+
+}
+
+.login input[type=text]{
+	width: 350px;
+	height: 30px;
+	border: 1px solid #EBAD99;
+	border-radius: 2px;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 4px;
+	margin-top: 10px;
+}
+
+.login input[type=text1]{
+	width: 350px;
+	height: 30px;
+	border: 1px solid #EBAD99;
+	border-radius: 2px;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 4px;
+	margin-top: 10px;
+}
+
+.login input[type=password]{
+	width: 350px;
+	height: 30px;
+	border: 1px solid #EBAD99;
+	border-radius: 2px;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 4px;
+	margin-top: 10px;
+}
+
+.login input[type=button]{
+	width: 350px;
+	height: 30px;
+	border: 1px solid #fff;
+	cursor: pointer;
+	border-radius: 2px;
+	color:#A32900;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 6px;
+	margin-top: 10px;
+}
+
+.login{
+	position:absolute;
+	left:500px;
+	top:250px;
+
+}
+
+.login h2 {
+  color: #D65C33;
+  font-style:italic; 
+  font-family: light 300 italic;
+}
